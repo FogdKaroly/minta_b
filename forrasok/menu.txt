@@ -1,0 +1,22 @@
+Menü
+
+--------Pizzák-------
+Termék neve - Feltét tartalma
+Margaréta - Paradicsom alap, mozzarella sajt
+Kolbászos - paradicsom alap, kolbász, lilahagyma, sajt
+Török csirkés - tejfölös alap, gyroshús, brokkoli, feta sajt, sajt
+Démon - csípős paradicsomos alap, tarja, bacon, csirkemell, kalifornia paprika, hagyma sajt
+Extra - csípős paradicsomos alap, tarja, bacon, szalámi, kolbász, hagyma, kukorica, főtt tojás, sajt
+Playboy - sajtkrémes alap, tarja, sonka, gyroshús, gomba, kukorica, paradicsom, feta sajt, sajt
+
+Minden megrendelt pizza mellé alapnak jár 1 liter üdítő
+
+--------Extrák------
+Termék neve
+Csípős alap, BBQ alap
+Sajtfélék
+Tarja/Bacon/Kolbász
+Gyroshús/Csirkemell
+Ketchup/Majonéz/Mustár/Tejföl
+
+Minden termék mellé csupán egy extra választható! 

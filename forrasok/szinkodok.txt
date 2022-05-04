@@ -1,0 +1,5 @@
+Weboldal háttere:#ffd966
+Táblázat páratlan sorai háttér:#ff9900
+Táblázat páratlan sorai szöveg:#000000
+Táblázat páros sorai háttér:#98000
+Táblázat páros sorai szöveg:#ffffff
